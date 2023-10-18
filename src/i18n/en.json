@@ -1,0 +1,97 @@
+{
+  "appName": "MyApp EN",
+  "next": "Next",
+  "tabBar": {
+    "home": "Home",
+    "restaurants": "Restaurant",
+    "search": "Search",
+    "profile": "Profile"
+  },
+  "login": {
+    "createAcc": "Create an account or log in",
+    "loginBelow": "Log in below or create\na new QuickBite account.",
+    "gg": "Continue with Google",
+    "apple": "Continue with Apple",
+    "fb": "Continue with Facebook",
+    "or": "or log in using email",
+    "email": "Email",
+    "txtBottom": "This site is protected by the Google Privacy Policy\nand Terms of Service apply"
+  },
+  "cart": {
+    "title": "Shopping cart",
+    "qty": "Quantity",
+    "subTotal": "Subtotal",
+    "deliveryCosts": "Delivery costs",
+    "total": "Total",
+    "checkout": "Checkout",
+    "method": "Delivery method and time",
+    "deliveryTime": "Delivery in {{time}} min to Home",
+    "homeAddress": "Your home address here.",
+    "noContact": "No contact delivery",
+    "leaveOrder": "Leave the order in front of my door.",
+    "selectedItems": "Selected items",
+    "addMore": "Add more items",
+    "paymentDetail": "Payment details",
+    "paymentMethod": "Choose a payment method",
+    "paymentCard": "Credit card ending XXXX",
+    "tip": "Tip the courier",
+    "tipDes": "Optional tip for the courier.",
+    "pay": "Pay",
+    "priceVat": "Prices include VAT",
+    "proceed": "Proceed"
+  },
+  "quickBite": "QUICK\nBITE",
+  "restaurants": {
+    "new": "New on QuickBite",
+    "popular": "Popular right now",
+    "free": "Free",
+    "free_delivery": "Free delivery",
+    "open_now": "open now",
+    "5_stars": "5 stars"
+  },
+  "foods": {
+    "sandwiches": "Sandwiches",
+    "desserts": "Desserts"
+  },
+  "free_delivery": "free delivery",
+  "open_now": "open now",
+  "5_stars": "5 stars",
+  "sortBy": "SORT BY",
+  "searchForRestaurants": "Search for restaurant, ...",
+  "thankYou": {
+    "title": "Your purchase\nhas been successfully\ncompleted!",
+    "returnHome": "Return to home",
+    "trackOrder": "Track your order"
+  },
+  "orderStatus": {
+    "title": "Order Status",
+    "delivered": "until delivered",
+    "status1": "Almost there!",
+    "status1Des": "Your home address here.",
+    "status2": "Done!",
+    "status2Des": "Your order is ready and is being delivered to you.",
+    "status3": "Delivered!",
+    "status3Des": "Your order has been delivered."
+  },
+  "toppings": "Toppings",
+  "chooseAdditional": "Choose up to 4 additional items.",
+  "subtotal": "SubTotal",
+  "addToOrder": "Add to Order",
+  "home": {
+    "title": "The quickest\nway to find the\nperfect bite",
+    "placeSearch": "Search for specific restaurant",
+    "howItWork": "How it works",
+    "workWith": "Work with QuickBite",
+    "step": "Step",
+    "stepDes": "Enter your location. Type in your\naddress, or pin your location by\nenabling location services.",
+    "bottom1": "As a rider",
+    "bottom1Des": "Earn money by delivering food\nfrom restaurants. All you need are\nthe skills and a bike.",
+    "bottom1Button": "Ride with us",
+    "bottom2": "As a partner",
+    "bottom2Des": "QuickBite helps restaurants\ngrow with online ordering, loyalty\nprograms, and more.",
+    "bottom2Button": "Partner with us",
+    "bottom3": "As a colleague",
+    "bottom3Des": "Be part of a team that's building\na top-notch delivery service.",
+    "bottom3Button": "Work with us"
+  }
+}
